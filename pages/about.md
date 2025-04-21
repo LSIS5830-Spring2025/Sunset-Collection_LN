@@ -16,6 +16,6 @@ credits: true
 
 This collection contains seven high-resolution JPG images of sunset photos that were taken with my phone over the course of a couple of years. The purpose of this collection is to capture the beauty of nature and the calming effect of these moments. These images highlight color, atmosphere, and location interact with the surrounding environment. My goal is to provide viewers with a visually pleasing experience that elicits a calming effect and a appreciation for natural beauty. This collection is intended for nature enthusiasts, artists, or anyone who enjoys nature photography. 
 
-- Features images of sunsets, silhouettes of trees and cars, various locations, bodies of water, clouds, skies, and a vibrant array of colors.
+- Features images of sunsets, silhouettes of trees and cars, various locations, bodies of water, clouds, skies, and a vibrant range of colors.
 
-The repository features 7 images captured with an iPhone in Henderson, NC; Greensboro, NC; Myrtle Beach, SC; and Philadelphia,
+This repository features 7 images captured with an iPhone in Henderson, NC; Greensboro, NC; Myrtle Beach, SC; and Philadelphia, PA,
