@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection contains seven high-resolution JPG images of sunset photos that were taken with my phone over the course of a couple of years. The purpose of this collection is to capture the beauty of nature and the calming effect of these moments. These images highlight color, atmosphere, and location interact with the surrounding environment. My goal is to provide viewers with a visually pleasing experience that elicits a calming effect and a appreciation for natural beauty. This collection is intended for nature enthusiasts, artists, or anyone who enjoys nature photography. 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
@@ -22,6 +22,3 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
